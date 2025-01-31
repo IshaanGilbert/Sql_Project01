@@ -1,1 +1,1 @@
-# Sql_Project01
+SQL_Projects For Data Analytics
